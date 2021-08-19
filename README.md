@@ -1,1 +1,1 @@
-Hi 👋 I am Kurtuluş
+Hi 👋 I am Kurtulus
