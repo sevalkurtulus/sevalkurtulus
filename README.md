@@ -1,4 +1,4 @@
-        <h1>Hi 👋 I am Kurtulus<h1>
-_____________________________________________
+        Hi 👋 I am Kurtulus
 
-              Developer
+             Developer
+
