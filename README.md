@@ -10,5 +10,18 @@
 [linkedin]: https://www.linkedin.com/in/kurtulusseval/
 [gmail]: mailto:kurtulusevaaal@gmail.com
 <br />
+
+#  Languages and Tools:
+
+###   Vue.js
+###   JavaScript
+###   Node.js
+###   Java
+###   Electron.js
+###   Socket.IO
+###   Bootstrap
+
+
+
             
 
