@@ -12,7 +12,7 @@
 <br />
 
 #  Languages and Tools:
-
+<div>
 <img src="https://img.icons8.com/color/100/000000/vue-js.png"/>
 <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
@@ -23,8 +23,6 @@
 <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/100/000000/sass.png"/>
 <img src="https://img.icons8.com/windows/100/000000/netbeans.png"/>
-
-
-
+</div>
             
 
