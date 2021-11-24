@@ -22,7 +22,7 @@
 <img src="https://img.icons8.com/wired/100/000000/postman-api.png"/>
 <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/100/000000/sass.png"/>
-<img src="https://img.icons8.com/windows/100/000000/netbeans.png"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 </div>
             
 
