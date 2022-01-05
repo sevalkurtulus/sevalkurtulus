@@ -23,6 +23,7 @@
 <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/100/000000/sass.png"/>
 <img src="https://img.icons8.com/color/100/000000/intellij-idea.png"/>
+ <img src="https://img.icons8.com/color/100/000000/spring-logo.png"/>
 </div>
             
 
